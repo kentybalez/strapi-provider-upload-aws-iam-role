@@ -33,7 +33,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git+https://github.com/kentybalez/strapi-provider-upload-aws-iam-role.git"
   },
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"

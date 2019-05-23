@@ -1,7 +1,7 @@
 {
-  "name": "strapi-provider-upload-aws-iam-role",
+  "name": "strapi-provider-upload-aws-s3-iam",
   "version": "3.0.0-alpha.26.2",
-  "description": "AWS S3 provider for strapi upload to S3 with IAM role enabled",
+  "description": "AWS S3 provider for strapi upload using credentials from IAM roles",
   "homepage": "https://github.com/kentybalez/strapi-provider-upload-aws-iam-role",
   "keywords": [
     "upload",
